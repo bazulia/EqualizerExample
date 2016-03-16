@@ -115,6 +115,9 @@ public class MainActivity extends AppCompatActivity {
                 public void onStopTrackingTouch(SeekBar seekBar) {}
             });
 
+
+
+            
             row.addView(minDbTextView);
             row.addView(bar);
             row.addView(maxDbTextView);
